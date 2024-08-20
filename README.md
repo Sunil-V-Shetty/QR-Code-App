@@ -1,8 +1,6 @@
 # QR CODE APPLICATION [SCANNER & GENERATOR]
 
-## Table of Contents
-
-## Brief Overview
+## Overview
 This project is a QR CODE APPLICATION mobile application, which utilizes the Java.
 
 ## About Us
@@ -11,7 +9,7 @@ This mobile application created and designed by <b>Sunil V</b>.
 <p>Check out some of our other projects on GitHub: </p>
 <b><p><span style="margin-right: 75px;">Sunil V: <a href="https://github.com/Sunil-V-Shetty" target="_blank">GitHub</a></span></p></b>
 
-<p>Learn more about us on our Linkedin pages: </p>
+<p>Learn more about me on Linkedin page: </p>
 <b><p><span style="margin-right: 66px;">Sunil V: <a href="https://www.linkedin.com/in/sunil-shetty-166395284" target="_blank">LinkedIn</a></span></p></b>
 
 For any questions, reporting of bugs, or requests for additional features, email at 
@@ -47,6 +45,9 @@ sunilshettyy27@gmail.com.
 
 # Requirements
 - Development Language: Java
+- Android Version: 6.0 (Marshmallow) or higher
+- Libraries Used:
+ZXing for QR code generation and scanning.
 
 # Installation
 - Clone the repository.
