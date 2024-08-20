@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Code Scanner. An android app to scan and create codes(barcodes, QR codes, etc)
+  ~ Copyright (C) 2024 Sunil V
+  -->
+
+<resources>
+    <dimen name="bottom_nav_height">75dp</dimen>
+</resources>
