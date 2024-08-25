@@ -6,7 +6,7 @@ This project is a QR CODE APPLICATION mobile application, which utilizes the Jav
 ## About Us
 This mobile application created and designed by <b>Sunil V</b>.
 
-<p>Check out some of our other projects on GitHub: </p>
+<p>Check out some of my other projects on GitHub: </p>
 <b><p><span style="margin-right: 75px;">Sunil V: <a href="https://github.com/Sunil-V-Shetty" target="_blank">GitHub</a></span></p></b>
 
 <p>Learn more about me on Linkedin page: </p>
